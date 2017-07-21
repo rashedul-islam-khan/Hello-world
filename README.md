@@ -1,2 +1,2 @@
 # Login Register for beginner in php oop
-A hello world project
+It's a simple project for beginner...
